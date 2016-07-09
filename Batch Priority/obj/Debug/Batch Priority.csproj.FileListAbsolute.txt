@@ -1,0 +1,16 @@
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\bin\Debug\Batch Priority.exe.config
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\bin\Debug\Batch Priority.exe
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\bin\Debug\Batch Priority.pdb
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority.csprojResolveAssemblyReference.cache
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Interop.IWshRuntimeLibrary.dll
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority.csproj.ResolveComReference.cache
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\MainWindow.g.cs
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\App.g.cs
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority_MarkupCompile.cache
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority_MarkupCompile.lref
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\MainWindow.baml
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority.g.resources
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch_Priority.Properties.Resources.resources
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority.csproj.GenerateResource.Cache
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority.exe
+c:\users\timo\documents\visual studio 2015\Projects\Batch Priority\Batch Priority\obj\Debug\Batch Priority.pdb

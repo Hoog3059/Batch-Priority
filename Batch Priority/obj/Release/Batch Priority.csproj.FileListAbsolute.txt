@@ -1,0 +1,15 @@
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\bin\Release\Batch Priority.exe.config
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch Priority.csproj.ResolveComReference.cache
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\bin\Release\Batch Priority.exe
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\bin\Release\Batch Priority.pdb
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\MainWindow.g.cs
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\App.g.cs
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch Priority_MarkupCompile.cache
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch Priority_MarkupCompile.lref
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\MainWindow.baml
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch Priority.g.resources
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch_Priority.Properties.Resources.resources
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch Priority.csproj.GenerateResource.Cache
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch Priority.exe
+C:\Users\timo\Documents\Visual Studio 2015\Projects\Batch Priority\Batch Priority\obj\Release\Batch Priority.pdb
